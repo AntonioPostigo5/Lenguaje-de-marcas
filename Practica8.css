@@ -1,0 +1,67 @@
+/* Estilo para el body */
+body {
+    background-color: #eeeeee;
+    color: black;
+    text-align: justify;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333333;
+    font-size: 200%;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+h2 {
+    background-color: #888888;
+    color: red;
+    font-size: 150%;
+    text-transform: capitalize;
+    padding: 5px;
+}
+
+h3 {
+    background-color: #aaaaaa;
+    color: darkmagenta;
+    font-size: 130%;
+    padding: 5px;
+}
+
+p {
+    background-color: #cccccc;
+    line-height: 1.5;
+    margin: 5px 0;
+    padding: 5px;
+}
+
+
+address {
+    background-color: white;
+    font-style: normal;
+    text-align: right;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+
+em {
+    color: blue;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.datos{
+    color: blue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.años {
+    color: green;
+    font-style: normal;
+    font-weight: normal;
+}
